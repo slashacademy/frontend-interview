@@ -1,4 +1,4 @@
-![](https://github.com/yangshun/yangshun/raw/main/img/js-interview-tall.png)
+![](https://github.com/codewithshivamk/codewithshivamk/blob/main/slashbanner.png?raw=true)
 ### Hi there 👋 I'm Shivam!  
   
 
