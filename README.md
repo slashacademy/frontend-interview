@@ -1,4 +1,4 @@
-![](https://github.com/codewithshivamk/codewithshivamk/blob/main/slashbanner.png?raw=true)
+![](https://github.com/nexcodeacademy/frontend-interview/blob/main/nexcodebanner.png?raw=true)
 ### Hi there 👋 I'm Shivam!  
   
 
